@@ -1,0 +1,7 @@
+# Local preview and verification artifacts are not part of the website.
+tmp/
+output/
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
