@@ -44,7 +44,8 @@ Search for `WORK EXPERIENCE` in `index.html`. Remove the outer HTML comment mark
 ### Update your details
 
 - Edit your biography, degree, skills, and coursework directly in `index.html`.
-- If you change your email, update the `mailto:` link, its visible text, and the copy button's `data-email` value together.
+- If you change your email, update both `mailto:` links (beside your name and in Contact), the visible address, and the copy button's `data-email` value together.
+- The icons beside your name link directly to your email and GitHub profile. The GitHub icon opens in a new tab.
 - The Contact section links to `https://github.com/Tonyduckk`. An optional LinkedIn anchor is commented out beside it.
 - Adjust the design tokens at the top of `styles.css` to change the appearance.
 
